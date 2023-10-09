@@ -33,6 +33,7 @@ const  routes = [
       name: 'Régles du jeu',
       component: () => import('../views/GameRulesView.vue')
     }
+
     
     
   ]
